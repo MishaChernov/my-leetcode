@@ -6,4 +6,4 @@ var reverseWords = function (s) {
     return s.split(' ').filter(Boolean).reverse().join(' ');
 };
 
-console.log(reverseWords('  Hello World  '));
+console.log(reverseWords('the sky is blue'));
